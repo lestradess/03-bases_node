@@ -1,6 +1,3 @@
-/tabla-1.txt
-/tabla-2.txt
-/tabla-3.txt
-/tabla-5.txt
-/tabla-7.txt
-/salida
+node_modules/
+/salida/*.txt
+
