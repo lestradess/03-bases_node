@@ -1,7 +1,7 @@
 # Notas:
 Este es mi primer proyecto en Node
 
-´´´Opciones:
+'''Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
   -b, --base      Base de la tabla se multiplicar
@@ -9,4 +9,4 @@ Este es mi primer proyecto en Node
   -l, --listar   Muestra la tabla por consola        [booleano] [defecto: false]
   -h, --hasta    Selecciona hasta el número que se quiere multiplicar
                                                           [número] [defecto: 10]
-                                                          ´´´
+                                                          '''
